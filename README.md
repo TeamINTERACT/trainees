@@ -1,2 +1,2 @@
 # trainees
-Repo for trainee documentation 
+Repo for trainee breaking things and generally learning git 
